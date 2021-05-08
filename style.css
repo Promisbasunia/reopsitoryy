@@ -1,0 +1,396 @@
+.header-section{
+    background-color: #fff;
+}
+.header-section .logo-section a{
+    line-height: 100px;
+}
+.header-section img{
+    width: 100px;
+    height: auto;
+
+}
+
+.manu-section  ul{
+    text-align: right;
+    margin-bottom: 0;
+}
+.manu-section  ul li{
+    display: inline-block;
+}
+.manu-section  ul li a{
+    display: inline-block;
+    padding: 0 20px;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 100px;
+    text-transform: capitalize;
+    color: #3368c6;
+}
+.manu-section  ul li a:hover{
+    color: #1d355f;
+}
+
+
+
+
+
+/* start banner-sectionn */
+/* start banner-sectionn */
+.banner-sectionn{
+    background: linear-gradient(#baa9d36c,#c1aedb71), url(https://mobirise.com/extensions/innovationamp/demo_science/assets/images/bg3-1920x1280.jpg) center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+
+}
+.banner-sectionn h1{
+    font-weight: 700;
+    font-size: 50px;
+    color: #fff;
+    line-height: 83px;
+
+}
+.banner-sectionn h6{
+    font-weight: 600;
+    font-size: 18px;
+    color: #fff;
+   
+}
+.banner-sectionn a{
+    
+    text-transform: capitalize;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 10px 44px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.banner-sectionn a:hover{
+    background: none;
+    border: 1px solid #fff;
+}
+
+/* hemartology-section */
+/* hemartology-section */
+.hemartology-section{
+    padding: 100px 0 150px 0;
+}
+.hemartology-section i{
+    background-color: #EEF3F9;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    font-size: 30px;
+    color: #3368c6;
+    line-height: 45px;
+    border-radius: 5px;
+}
+.hemartology-section h3{
+    color: #031b4e;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    font-weight: 600;
+}
+.hemartology-section p{
+    color: #8893b9;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    margin-top: 9px;
+    font-weight: 600;
+}
+
+/* stat technology-section */
+/* stat technology-section */
+
+.technology-section{
+    background: linear-gradient(#F5F7FC,#f5f7fc00,#f5f7fc05,#495d8e54), url(https://mobirise.com/extensions/innovationamp/demo_science/assets/images/bg1-1-1200x800.jpg) top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+}
+.technology-section h1{
+    font-family: 'Poppins',sans-serif;
+    font-size: 2.25rem;
+    line-height: 1.4em;
+    color: #031b4e;
+    font-weight: 700;
+}
+.technology-section .line{
+    width: 30px;
+    background-color: #3368c6;
+    height: 3px;
+    border-radius: 2px;
+    margin: 10px 0;
+}
+.technology-section p{
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    color: #031b4e;
+}
+.technology-section ul{
+    padding: 20px 0;
+}
+.technology-section ul li{
+   list-style: none;
+   color: #8893b9;
+   font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+}
+.technology-section ul li i{
+    color: #3368c6;
+}
+.technology-section a{
+    font-weight: 700;
+}
+
+/* start evaluation-section */
+/* start evaluation-section */
+.evaluation-section h1{
+    color: #031b4e;
+}
+.evaluation-section h2{
+    color: #031b4e;
+    font-weight: 900;
+}
+.evaluation-section .cool-section{
+
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.185);
+   border-radius: 20px;
+  
+
+}
+.evaluation-section i{
+    font-size: 40px;
+    color: #3368c6;
+    line-height: 100px;
+}
+
+.evaluation-section .card{
+
+    border: none;
+    border-radius: 10px;
+}
+.evaluation-section h5{
+    color: #031b4e;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1.125rem;
+    line-height: 1.5;
+    font-weight: 600;
+    margin-left: 20px;
+}
+.evaluation-section p{
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    opacity: .75;
+    color: #8893b9;
+    margin-left: 20px;
+}
+
+
+/* laboratory-section */
+/* laboratory-section */
+.laboratory-section h1{
+    color: #031b4e;
+    font-family: 'Poppins',sans-serif;
+    font-size: 2.25rem;
+    font-weight: 700;
+    line-height: 1.4em;
+    padding: 170px 0 0 0;
+}
+.laboratory-section h1 span{
+    font-weight: normal;
+}
+.laboratory-section .line{
+    width: 30px;
+    background-color: #3368c6;
+    height: 3px;
+    border-radius: 2px;
+    margin: 10px 0;
+}
+.laboratory-section p{
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    color: #031b4e;
+    font-weight: 700;
+}
+.laboratory-section{}
+
+.laboratory-section{
+    background-color: #F0F0F0;
+}
+.laboratory-section .fa-chart-bar{
+    background-color: #41A9E0;
+    color: #fff;
+    padding: 12px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.laboratory-section .fa-stethoscope{
+    background-color: #6E8FC7;
+    color: #fff;
+    padding: 12px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.laboratory-section .fa-heart{
+    background-color: #E66C67;
+    color: #fff;
+    padding: 12px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.laboratory-section .fa-calendar-check{
+    background-color: #34B794;
+    color: #fff;
+    padding: 12px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.laboratory-section h2{
+    margin-top: 23px;
+    color: #031b4e;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.4;
+}
+.laboratory-section h6{
+    color: #8893b9;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    font-weight: 400;
+}
+.laboratory-section .posit{
+    transform: translateY(35px);
+}
+.laboratory-section .card{
+    border: none;
+}
+
+/* skill-section */
+/* skill-section */
+.skill-section{
+    background: linear-gradient(rgba(221, 221, 221, 0.733),rgba(117, 110, 110, 0.884)), url(https://mobirise.com/extensions/innovationamp/demo_science/assets/images/bg5-1-1920x1280.jpg) center;
+    background-size: cover;
+}
+.skill-section .fa-chart-line{
+    background-color: #EEF3F9;
+    color: #3368c6;
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.skill-section h1{
+    line-height: 2.4;
+    color: #3368c6;
+    text-align: left;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.skill-section p{
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    font-weight: 600;
+    color: #3368c6;
+}
+.skill-section span{
+    color: #3368c6;
+    font-weight: 600;
+}
+.skill-section .progress{
+    height: 6px;
+}
+
+
+/* explore-section */
+/* explore-section */
+.explore-section{
+    padding: 20px 0;
+}
+.explore-section .fa-briefcase{
+    background-color: #EEF3F9;
+    color: #3368c6;
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+.explore-section h1 {
+    line-height: 2.4;
+    color: #333;
+    text-align: left;
+    font-family: 'Poppins',sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+.explore-section .line{
+    width: 30px;
+    background-color: #3368c6;
+    height: 3px;
+    border-radius: 2px;
+    margin: 10px 0;
+}
+.explore-section p{
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+    color: #8893b9;
+    font-weight: 600;
+}
+.explore-section .icon{
+    background-color: #fff;
+    color: #41A9E0;
+   margin: auto;
+    height: 55px;
+    width: 55px;
+    font-size: 30px;
+    border-radius: 10px;
+    transform: translateY(-63px);
+    
+}
+.explore-section a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #031b4e;
+    font-weight: 700;
+}
+.explore-section .linee{
+    width: 30px;
+    background-color: #ddd;
+    height: 3px;
+    border-radius: 2px;
+    margin: 10px 0;
+
+}
+
+/* question-section */
+/* question-section */
+.question-section {
+    background-color: rgba(233, 227, 227, 0.432);
+    padding: 100px 0;
+}
+.question-section .fa-question-circle{
+    font-size: 58px;
+}
+.question-section h1{
+    font-family: 'Poppins',sans-serif;
+    font-size: 2.25rem;
+    line-height: 1.4em;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #031b4e;
+}
+.question-section h5 {
+    color: #8893b9;
+    font-family: 'Poppins',sans-serif;
+    font-size: 1rem;
+    line-height: 1.6875;
+}
